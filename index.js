@@ -5,7 +5,7 @@ const port = 3000;
 
 // Simple route
 expApp.get('/', (req, res) => {
-    res.send('Hello, World!');
+    res.send('Hello this is my first node app babe!');
 });
 
 // Start server
