@@ -9,6 +9,6 @@ expApp.get('/', (req, res) => {
 });
 
 // Start server
-expApp.listen(port, () => {
+expApp.listen(port, '0.0.0.0', () => {
     console.log(`Server is running on http://localhost:${port}`);
 });
