@@ -1,1 +1,1 @@
-# Just an demo NodeJS app
+# Just an demo NodeJS app.
